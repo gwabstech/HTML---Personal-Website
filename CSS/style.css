@@ -3,7 +3,7 @@
    }
 
    h1 {
-     color: yellow
+     color: blueviolet
    }
 
    h3 {
@@ -22,4 +22,8 @@
      height: 400px;
      width: 300px
 
+   }
+
+   table {
+     background-color: rgba(222, 184, 135, 0.11);
    }
